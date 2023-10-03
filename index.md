@@ -19,3 +19,7 @@ var myHello = "Hello, world!";
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Add headers
+- [ ] Add an image
+- [ ] Add code examples
+- [ ] Add a task list
